@@ -4,4 +4,4 @@
 
 [submodule "animalfarm"]
     path = animalfarm
-    url = ./animalfarm/
+    url = ./animalfarm

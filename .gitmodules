@@ -5,3 +5,7 @@
 [submodule "animalfarm"]
     path = animalfarm
     url = ./animalfarm
+
+[submodule "memento"]
+    path = memento
+    url = ./memento

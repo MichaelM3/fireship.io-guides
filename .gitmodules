@@ -1,3 +1,7 @@
 [submodule "first-next"]
-	path = first-next
-	url = ./first-next
+    path = first-next
+    url = ./first-next
+
+[submodule "animalfarm"]
+    path = animalfarm
+    url = ./animalfarm/

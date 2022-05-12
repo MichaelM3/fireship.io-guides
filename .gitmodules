@@ -9,3 +9,7 @@
 [submodule "memento"]
     path = memento
     url = ./memento
+
+[submodule "nextfire-app"]
+    path = nextfire-app 
+    url = ./nextfire-app

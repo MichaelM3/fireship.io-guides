@@ -66,7 +66,7 @@ function App() {
         return () => {
             clearTimeout(pickTimer)
         }
-    }, [cards, pickOne, pickTwo, wins])
+    }, [cards, pickOne, pickTwo, setBadge, wins])
 
     //  If player has found all matches, handle accordingly
     useEffect(() => {
@@ -81,7 +81,7 @@ function App() {
             setBadge()
             setCards(shuffle)
         }
-    }, [cards, wins])
+    }, [cards, setBadge, wins])
 
 
     return (
